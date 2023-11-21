@@ -1,0 +1,1 @@
+"C:\Program Files\Windows Defender\mpcmdrun.exe" -wdenable 
